@@ -1,3 +1,4 @@
+# github_cloner
 simple program to download all the repos on github for a particular keyword
 
 
@@ -7,4 +8,3 @@ gem install octokit
 to run:
 
 ruby get.rb KEYWORD
-# github_cloner
